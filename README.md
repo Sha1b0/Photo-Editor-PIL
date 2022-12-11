@@ -1,0 +1,1 @@
+This is a Photo editor with python pillow module . Thre are 11 types of different categories so after usin the tool , please let me know if there any improvements which can be made in the near future,Thanks.
